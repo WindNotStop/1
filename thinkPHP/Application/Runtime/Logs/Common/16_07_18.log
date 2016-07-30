@@ -1,0 +1,6 @@
+[ 2016-07-18T20:33:23+08:00 ] ::1 /thinkPHP/Public/upload/head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+ERR: 无法加载模块:Public
+
