@@ -1,0 +1,40 @@
+[ 2016-05-31T19:15:19+08:00 ] ::1 /thinkPHP/index.php/Home/UserService/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013985s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.009727s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074722s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015664s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011181s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011603s ]
+
+[ 2016-05-31T19:15:19+08:00 ] ::1 /thinkPHP/index.php/Home/UserService/valid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003138s ]
+
+[ 2016-05-31T23:18:29+08:00 ] ::1 /thinkPHP/index.php/Home/UserService/LR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.094599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012821s ]
+ERR: 非法操作:LR
+

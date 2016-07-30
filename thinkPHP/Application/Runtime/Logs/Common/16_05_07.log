@@ -1,0 +1,198 @@
+[ 2016-05-07T19:37:30+08:00 ] ::1 /thinkPHP/Public/Head/18550434180/.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001179s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:39:19+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001294s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:39:21+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001348s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:41:24+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001683s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:41:28+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001445s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:43:57+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002249s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:48:21+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001444s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:48:25+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001078s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:48:35+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001089s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:49:07+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002139s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:49:11+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001736s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:54:07+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002800s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:54:11+08:00 ] ::1 /thinkPHP/Public/Head/18550434180.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001974s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:56:11+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:56:12+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:56:18+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002470s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:56:59+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001363s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T19:57:03+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001332s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:00:17+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000346s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003853s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:00:21+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001256s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:02:45+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001971s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:06:18+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000403s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003861s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:06:55+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:06:59+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001516s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:07:35+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001478s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:07:44+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:09:00+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:09:04+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001931s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:10:07+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001173s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:10:11+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:10:43+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:10:48+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+ERR: 无法加载模块:Public
+
+[ 2016-05-07T20:11:12+08:00 ] ::1 /thinkPHP/Public/Head/__PUBLIC__/Head/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001206s ]
+ERR: 无法加载模块:Public
+
